@@ -19,13 +19,16 @@ Usage
 Run the script using the following command:
     python main.py
 
-The text editor window will open, and you can start using the application.
+The text editor window will open, utilizing the UI design defined in the main.ui file.
+
+UI Design
+The UI design is defined in the main.ui file, created using Qt Designer. If you want to modify the user interface, you can open this file with Qt Designer and make the necessary changes.
 
 
 ## Features
 1. New File: Clears the text area for a new file.
 2. Open File: Opens an existing text file.
-3. Save File: Saves the current text to the file. If no file is selected, it prompts to save as a new file.
+3. Save File: Saves the current text to the file. If no file is selected, it prompts you to save as a new file.
 4. Undo/Redo: Provides undo and redo functionality.
 5. Cut/Copy/Paste: Standard text editing options.
 6. Dark/Light Mode: Switch between dark and light modes for better readability.

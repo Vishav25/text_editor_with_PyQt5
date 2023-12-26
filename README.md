@@ -19,10 +19,10 @@ Usage
 Run the script using the following command:
     python main.py
 
-The text editor window will open, utilizing the UI design defined in the main.ui file.
-
 UI Design
 The UI design is defined in the main.ui file, created using Qt Designer. If you want to modify the user interface, you can open this file with Qt Designer and make the necessary changes.
+
+The text editor window will open, utilizing the UI design defined in the file: main.ui
 
 
 ## Features
